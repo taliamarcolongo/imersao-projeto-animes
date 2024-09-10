@@ -1,4 +1,5 @@
 ## Animes Brasil: Sua Busca por Animes, Simplificada! 🌸
+Projeto feito na Imersão DEV com Google Gemini
 
 **O que é?**
 
